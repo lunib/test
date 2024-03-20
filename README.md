@@ -1,6 +1,6 @@
 # Demo
 
-👋 Hello
+Hello
 
 ## Local Development
 
